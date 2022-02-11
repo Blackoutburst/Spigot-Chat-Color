@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/github/license/Blackoutburst/Spigot-Chat-Color.svg)](LICENSE)
+[![Release](https://img.shields.io/github/release/Blackoutburst/Spigot-Chat-Color.svg)](https://github.com/Blackoutburst/Spigot-Chat-Color/releases)
+
 # Spigot-Chat-Color
 Allow the usage of &amp; in chat to use color and format text
 
