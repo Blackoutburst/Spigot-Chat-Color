@@ -1,0 +1,9 @@
+main: com.blackoutburst.chatcolor.main.Main
+name: Chat-Color
+version: 1.0
+api-version: 1.13
+author: Blackoutburst
+description: A really basic plugin to allow color in chat
+permissions:
+  chatcolor.use:
+    default: op
